@@ -1,0 +1,11 @@
+div.title {margin: auto; font-size: 100px; color: red; width: fit-content}
+body {background-image: url("https://i.pinimg.com/originals/15/ca/ce/15caceb5efe666b70e0be9d0a62ab602.jpg")}
+div.a {margin: auto;
+background-color: blue;
+font-size: 50px;
+color: white;
+width: fit-content;
+text-align: center;
+padding: 50px;
+font-weight: bold}
+table {border: 1px}
